@@ -1,0 +1,15 @@
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\cosine\CosineDistance.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Test\AlgorithmTest.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\interfaces\StringDistance.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Stemmer\Stemmer.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Test\ReadFile.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Jaro\JaroWinkler.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\interfaces\NormalizedStringSimilarity.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Levenshtein\Levenshtein.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\SpellCheck\FileSpellChecker.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\interfaces\MetricStringDistance.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\Test\Measures.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\interfaces\StringSimilarity.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\lemmatizer\StanfordLemmatizer.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\jaccard\JaccardC.java
+F:\StringSimilarity\StringSimilarity\src\string\similarity\measurement\interfaces\NormalizedStringDistance.java
